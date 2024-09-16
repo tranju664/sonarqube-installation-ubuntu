@@ -8,7 +8,7 @@ install unzip
 sudo apt-get update
 sudo apt-get install -y openjdk-11-jre
 
-# To install the java 11
+# To install the java 17
 sudo apt-get update
 sudo apt-get install -y openjdk-17-jdk
 

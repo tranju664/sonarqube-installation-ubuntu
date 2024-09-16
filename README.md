@@ -20,4 +20,4 @@ start and stop the sonar server
 cd /opt/sonarqube
 ./bin/linux-x86-64/sonar.sh start
 ./bin/linux-x86-64/sonar.sh stop
-# we cannot start the sonar with the root user we should other users like ubuntu or ay other user
+# we cannot start the sonar with the root user we should use other users like ubuntu or any other user

@@ -1,6 +1,5 @@
 # Pre-Requisite
-Check the Compatible version SONAR version with java version as a pre-requisite
-install unzip
+Check the Compatible version SONAR version with java version as a pre-requisite and install unzip
 
 
 
